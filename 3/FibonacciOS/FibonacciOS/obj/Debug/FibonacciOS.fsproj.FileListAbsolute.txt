@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2012\Projects\FibonacciOS\FibonacciOS\bin\Debug\FibonacciOS.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\FibonacciOS\FibonacciOS\bin\Debug\FibonacciOS.XML
+c:\users\hp\documents\visual studio 2012\Projects\FibonacciOS\FibonacciOS\bin\Debug\FibonacciOS.exe
+c:\users\hp\documents\visual studio 2012\Projects\FibonacciOS\FibonacciOS\bin\Debug\FibonacciOS.pdb
+c:\users\hp\documents\visual studio 2012\Projects\FibonacciOS\FibonacciOS\bin\Debug\FSharp.Core.dll
+c:\users\hp\documents\visual studio 2012\Projects\FibonacciOS\FibonacciOS\bin\Debug\FSharp.Core.xml
+c:\users\hp\documents\visual studio 2012\Projects\FibonacciOS\FibonacciOS\bin\Debug\es\FSharp.Core.resources.dll
+c:\users\hp\documents\visual studio 2012\Projects\FibonacciOS\FibonacciOS\obj\Debug\FibonacciOS.fsprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\FibonacciOS\FibonacciOS\obj\Debug\FibonacciOS.exe
+c:\users\hp\documents\visual studio 2012\Projects\FibonacciOS\FibonacciOS\obj\Debug\FibonacciOS.pdb
